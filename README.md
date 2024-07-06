@@ -1,5 +1,4 @@
-[![MasterHead](![Link](https://github.com/Chandana-sree-moparthi/chandana-sree-moparthi/assets/166630321/4a5ce11d-8282-4a12-b029-84c203e26e7b))]
-
+![MasterHead](https://github.com/Chandana-sree-moparthi/chandana-sree-moparthi/blob/main/assets/166630321/4a5ce11d-8282-4a12-b029-84c203e26e7b)
 
 <h1 align="center">Hi 👋, I'm Moparthi Chandana Sree</h1>
 <h3 align="center">An enthusiastic continuous learner from India.</h3>
