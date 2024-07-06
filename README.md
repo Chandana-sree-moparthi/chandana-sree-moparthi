@@ -1,6 +1,6 @@
 ![image](https://github.com/Chandana-sree-moparthi/chandana-sree-moparthi/assets/166630321/d83b3811-8409-4b03-aa2a-0af9e7830b02)
 
-<h1 align="center">Hi 👋, I'm Moparthi Chandana Sree</h1>
+<h1 align="center">Hi 👋, I'm Chandana </h1>
 <h3 align="center">An enthusiastic continuous learner from India.</h3>
 <img align ="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
