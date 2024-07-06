@@ -29,6 +29,22 @@
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
+## Career Overview
+
+As a dedicated computer science student specializing in data science, I have strong programming skills and proficiency in data analysis and visualization. I have developed Python scripts to process and analyze large datasets, resulting in actionable insights and improved strategic decision-making. Engaging in AI and machine learning, I have contributed to project outcomes and am committed to continuous learning. I seek opportunities to apply my passion for data-driven solutions in innovative organizations.
+
+
+## Skills
+
+- **Programming & Development**: Python, Java, C, Data Analysis
+- **Machine Learning**: TensorFlow, Scikit-learn, Deep Learning, Neural Networks
+- **Data Science & AI**: Data Analysis, Predictive Modeling, Data Visualization, Machine Learning
+- **Cloud Computing**: AWS
+- **Databases**: MySQL, MongoDB
+- **Data Analysis & Visualization**: Power BI, Tableau, MS Excel, Power Point
+- **Soft Skills**: Strong Analytical Abilities, Effective Communication, Time Organization, Leadership, Teamwork, Adaptability, Creative Thinking
+
+
 ## Education
 
 - **Koneru Lakshmaiah University, Hyderabad**
@@ -44,15 +60,15 @@
   - June 2018 - April 2019
 
 
-# Projects Overview
+## Projects Overview
 
-## Walmart Sales Data Analysis (MySQL)
+**Walmart Sales Data Analysis (MySQL)**
 - Analyzed large sales datasets using MySQL, leading to a 15% revenue increase through targeted insights. Identified trends and patterns in Walmart's sales data, resulting in a 15% reduction in excess inventory and a 10% increase in inventory turnover rate. Improved operational efficiency and strategic decision-making for Walmart.
 
-## Food Vision (TensorFlow)
+**Food Vision (TensorFlow)**
 - Developed a food image recognition system using TensorFlow, achieving 77.4% top-1 accuracy in categorizing 101 food classes. Enhanced image classification accuracy by 25% and reduced manual tagging time by 40%, showcasing advanced machine learning expertise for practical AI applications in food classification. Streamlined food classification processes with higher accuracy and efficiency.
 
-## Amazon Prime Video Data Analysis Dashboard (Power BI)
+**Amazon Prime Video Data Analysis Dashboard (Power BI)**
 - Created an interactive Power BI dashboard to visualize Amazon Prime Video's content performance and user engagement metrics. Facilitated a 25% increase in user engagement through actionable insights derived from the dashboard. Enhanced decision-making capabilities with real-time data insights for Amazon Prime Video content managers.
 
 
