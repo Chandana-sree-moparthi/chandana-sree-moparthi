@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moparthi Chandana Sree</h1>
 <h3 align="center">An enthusiastic continuous learner from India.</h3>
-<img align ="right" alt="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align ="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
 - 🌱 I am currently focused on learning **Artificial Intelligence and Machine Learning.**
