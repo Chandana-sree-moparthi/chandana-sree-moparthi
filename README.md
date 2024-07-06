@@ -1,6 +1,33 @@
 <h1 align="center">Hi 👋, I'm Moparthi Chandana Sree</h1>
 <h3 align="center">An enthusiastic continuous learner from India.</h3>
-<img align ="right" alt="Coding" width="400" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952eiaoe80xljhiovysszgn1g5bhz3u9tng647cfenr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .crop-top {
+            width: 400px;
+            height: 300px; /* Set the desired height */
+            overflow: hidden;
+            position: relative;
+        }
+        
+        .crop-top img {
+            position: absolute;
+            top: -50px; /* Adjust this value to crop the top part */
+            left: 0;
+        }
+    </style>
+    <title>Crop GIF</title>
+</head>
+<body>
+    <div class="crop-top">
+        <img alt="Coding" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952eiaoe80xljhiovysszgn1g5bhz3u9tng647cfenr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+    </div>
+</body>
+</html>
+
 
 - 🌱 I am currently focused on learning **Artificial Intelligence and Machine Learning.**
 
